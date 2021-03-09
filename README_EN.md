@@ -1,6 +1,6 @@
 # bilibili-blacklist-tool
 ![GitHub license](https://img.shields.io/github/license/Koukotsukan/bilibili-blacklist-tool?style=flat-square)
-### A tool to help you quickly blacklist users with relevant keywords or pop-ups, with a counter-checking UID function
+### A tool to help you quickly blacklist users with relevant keyworded damaku or comments
 [中文版](./README.md)
 #### Attention! This project was completed several years ago, and there are serious problems with its structure. As of March 2021, the core functionality works fine, but there are inevitably strange bugs and performance wastes
 
