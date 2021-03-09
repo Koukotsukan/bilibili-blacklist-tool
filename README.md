@@ -28,7 +28,7 @@
 - [ ] 免cookie登录
 
 ## 使用指南：
-0.下载本项目及其依赖到本地目录中（[教程](https://docs.github.com/cn/github/creating-cloning-and-archiving-repositories/cloning-a-repository)）
+0. 下载本项目及其依赖到本地目录中（[教程](https://docs.github.com/cn/github/creating-cloning-and-archiving-repositories/cloning-a-repository)）
 1. 打开并登录[bilibili](https://www.bilibili.com)，通过[浏览器开发者工具](https://developer.mozilla.org/zh-CN/docs/Tools)，获取自己的cookie
 2. 将cookie的值完整复制到本项目的``cookies.json``文件中（使用notepad打开即可）
 3. 运行``main.py``
